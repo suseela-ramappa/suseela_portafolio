@@ -30,12 +30,6 @@ Welcome to the source code for my **personal portfolio** website – a fully ani
 
 ---
 
-## 📸 Screenshots
-
-> ✨ *Coming soon...* (You can upload images of your site and link them here.)
-
----
-
 ## 🗂️ Folder Structure
 
 ├── index.html
